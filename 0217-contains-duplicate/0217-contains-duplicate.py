@@ -1,13 +1,13 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        a={}
+        s=set()
         for i in range(len(nums)):
-            if nums[i] in a:
-                return True
+            if nums[i] not in s:
+                s.add(nums[i])
             else:
-                a[nums[i]]=1
+                return True
         return False
-nums=[1,2,3,4]
 S=Solution()
+nums=[1,2,3.4]
 res=S.containsDuplicate(nums)
 print(res)
