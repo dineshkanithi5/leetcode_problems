@@ -1,13 +1,8 @@
 class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        freq={}
-        for x in nums:
-            if x in freq:
-                freq[x]=freq[x]+1
-            else:
-                freq[x]=1
-        for x in freq:
-            if freq[x]==1:
-                return x
-S=Solution()
-print(S.singleNumber)        
+    def singleNumber(self, nums):
+        return  2*(sum(set(nums)))-sum(nums)
+nums=[2,2,1]
+p1=Solution()
+p1.singleNumber(nums)
+
+        
