@@ -1,26 +1,13 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        a={}
-        b={}
-        for i in s:
-            if i not in a:
-                a[i]=1
-            else:
-                a[i]+=1
-        for i in t:
-            if i not in b:
-                b[i]=1
-            else:
-                b[i]+=1
-        if a==b:
+        if len(s)==len(t):
+            for i in range(len(s)):
+                if s.count(s[i]) != t.count(s[i]):
+                    return False
             return True
         return False
         
-s="anagram"
-t="nagaram"
-S=Solution()
-print(S.isAnagram(s,t))
-        
+
 s="anagram"
 t="nagaram"
 S=Solution()
