@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
