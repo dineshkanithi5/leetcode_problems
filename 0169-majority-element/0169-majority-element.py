@@ -6,8 +6,8 @@ class Solution:
                 f[i]=1
             else:
                 f[i]+=1
-                if f[i]>len(nums)//2:
-                    return i
+            if f[i]>len(nums)//2:
+                return i
         return nums[0]
                 
        
