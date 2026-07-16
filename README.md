@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
