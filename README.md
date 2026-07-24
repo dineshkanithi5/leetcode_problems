@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2942-find-words-containing-character](https://github.com/dineshkanithi5/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/dineshkanithi5/leetcode_problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/dineshkanithi5/leetcode_problems/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/dineshkanithi5/leetcode_problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dineshkanithi5/leetcode_problems/tree/master/0344-reverse-string) |
+| [2942-find-words-containing-character](https://github.com/dineshkanithi5/leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/dineshkanithi5/leetcode_problems/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
